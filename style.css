@@ -6,7 +6,7 @@ button,hr,input{overflow:visible}progress,sub,sup{vertical-align:baseline}[type=
 
 :root {
   --dark-blue: hsl(240, 38%, 20%);
-  --gray: hsl(240, 18%, 77%);
+  --gray: hsl(240, 14%, 71%);
   --grey: hsl(240, 18%, 77%);
   --light-gray: hsl(0, 0%, 90%);
   --light-grey: hsl(0, 0%, 90%);
