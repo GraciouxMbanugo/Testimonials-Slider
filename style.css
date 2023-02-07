@@ -10,7 +10,7 @@ button,hr,input{overflow:visible}progress,sub,sup{vertical-align:baseline}[type=
   --grey: hsl(240, 18%, 77%);
   --light-gray: hsl(0, 33%, 96%);
   --light-grey: hsl(0, 0%, 90%);
-  --white: hsl(0, 0%, 100%);
+  --white: hsl(0, 9%, 81%);
 }
 
 html {
